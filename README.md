@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsioo%2Fmilitary_rnd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-전문연구요원 훈련소 후기
+[2023/10-11] 전문연구요원 훈련소 후기
 ========================
 # 개요
 전문연구요원으로 2023년 10월 12일 논산 육군훈련소에 23-35,36기로 입소, 3주 후 11월 2일 퇴소까지, 27연대 제2교육대에서의 기록과 함께 훈련소 일정을 계획하고 있는 전문연구요원을 위해 기록한다.
