@@ -50,6 +50,9 @@
           <tr><td>구두약</td><td>1</td></tr>
           <tr><td>구두솔</td><td>1</td></tr>
           <tr><td>군번줄</td><td>1</td></tr>
+          <tr><td>손발톱깎이 세트</td><td>1</td></tr>
+          <tr><td>비누 및 비누갑</td><td>1</td></tr>
+          <tr><td>세탁망</td><td>2</td></tr>
         </tbody>
       </table>
     </details>
@@ -189,4 +192,8 @@ PX에서 살수없는것은 ❗로 표시하였다.
 SKT, U+는 잘 안 터진다. KT는 복도에 증폭기가 있어 잘터진다.
      
 이후 계속 작성 예정.
+
+# 훈련 과정
+## 1주차
+- [10/12(목)](https://github.com/Ssioo/military_rnd/blob/main/week1/01_%EC%9E%85%EC%86%8C%EC%8B%9D.md)
 
