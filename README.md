@@ -57,6 +57,7 @@
           <tr><td>손발톱깎이 세트</td><td>1</td></tr>
           <tr><td>비누 및 비누갑</td><td>1</td></tr>
           <tr><td>세탁망</td><td>2</td></tr>
+          <tr><td>볼펜</td><td>1</td></tr>
         </tbody>
       </table>
     </details>
