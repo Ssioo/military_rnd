@@ -204,7 +204,7 @@ PX에서 살수없는것은 ❗로 표시하였다.
 [육군훈련소 참고자료](https://www.katc.mil.kr/katc/eduinfo/support.jsp)
 ## 0주차 (예비기간)
 - [10/12(목) 입소식](https://github.com/Ssioo/military_rnd/blob/main/week1/01_%EC%9E%85%EC%86%8C%EC%8B%9D.md)
-- 10/13(금) PCR검사, 군예정교육, 보급품수령, 총기제식
+- [10/13(금)](https://github.com/Ssioo/military_rnd/blob/main/week1/02_2일차.md) PCR검사, 군예정교육, 보급품수령, 총기제식
 - 10/14(토) 군사보안교육, 군법교육, 군인권교육, 맨손제식
 ## 1주차
 - 10/16(월) 정신전력, 총기수여식
